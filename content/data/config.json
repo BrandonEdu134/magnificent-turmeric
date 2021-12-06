@@ -7,7 +7,7 @@
         "tagline": "Programador",
         "logo_img": "/images/nuev2.png",
         "logo_img_alt": "Fjord Logo",
-        "background_img": "images/header-bg.jpg",
+        "background_img": "/images/formal1.png",
         "has_nav": true,
         "nav_links": [
             {
