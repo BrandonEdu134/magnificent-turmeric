@@ -88,7 +88,7 @@ export default class Header extends React.Component {
             <header className="site-header">
                 {image && (
                     <div className="site-header-bg">
-                        <img src={withPrefix(image)} className="site-header-bg-img" alt="" style={{}} />
+                        <img src={withPrefix(image)} className="site-header-bg-img" alt="" style={{filter: ""}} />
                         <div className="site-header-bg-gradient" />
                     </div>
                 )}
