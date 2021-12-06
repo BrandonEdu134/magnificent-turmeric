@@ -2,7 +2,7 @@
 title: Ejercicio Página Formulario
 excerpt: >-
   En este segundo ejercicio se comienzan a aplicar los conocimientos adquiridos como son las etiquetas Input, CheckBox, formgroups, etc.
-date: '2021-07-29'
+date: '2021-07-30'
 thumb_img_path: images/CodepenP1.png
 thumb_img_alt: Tribute Page
 content_img_path: images/CodepenP1.png
