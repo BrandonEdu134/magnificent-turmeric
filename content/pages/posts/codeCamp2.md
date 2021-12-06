@@ -5,7 +5,7 @@ excerpt: >-
 date: '2021-07-30'
 thumb_img_path: images/CodepenP4.png
 thumb_img_alt: Tribute Page
-content_img_path: images/CodepenP1.png
+content_img_path: images/CodepenP4.png
 seo:
   title: Primer Ejercicio - Página Tributo
   description: >-
