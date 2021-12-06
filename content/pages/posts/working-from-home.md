@@ -1,7 +1,7 @@
 ---
 title: Ejercicio Página Tributo
 excerpt: >-
-  En este primer ejercicio se comienzan a aplicar los conocimientos adquiridos a lo largo del curso de la página FreeCodeCamp para la certificación en Diseño Web Responsivo ()
+  En este primer ejercicio se comienzan a aplicar los conocimientos adquiridos a lo largo del curso de la página FreeCodeCamp para la certificación en Diseño Web Responsivo (Responsive Web Design)
 date: '2021-07-29'
 thumb_img_path: images/CodepenP1.png
 thumb_img_alt: Tribute Page
