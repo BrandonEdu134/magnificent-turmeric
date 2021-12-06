@@ -1,7 +1,7 @@
 ---
 title: Ejercicio Página Formulario
 excerpt: >-
-  En este segundo ejercicio se comienzan a aplicar los conocimientos adquiridos como son las etiquetas de entrada a lo largo del curso de la página FreeCodeCamp para la certificación en Diseño Web Adaptable (Responsive Web Design)
+  En este segundo ejercicio se comienzan a aplicar los conocimientos adquiridos como son las etiquetas de entrada,  a lo largo del curso de la página FreeCodeCamp para la certificación en Diseño Web Adaptable (Responsive Web Design)
 date: '2021-07-29'
 thumb_img_path: images/CodepenP1.png
 thumb_img_alt: Tribute Page
