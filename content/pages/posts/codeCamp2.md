@@ -40,4 +40,4 @@ seo:
 layout: post
 ---
 
-En este primer ejercicio se comienzan a aplicar los conocimientos adquiridos a lo largo del curso de la página FreeCodeCamp para la certificación en Diseño Web Adaptable (Responsive Web Design)
+En este segundo ejercicio se comienzan a aplicar los conocimientos adquiridos como son las etiquetas Input, CheckBox, formgroups, etc.
