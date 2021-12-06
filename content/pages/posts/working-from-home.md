@@ -1,9 +1,7 @@
 ---
 title: Ejercicio Página Tributo
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+  En este primer ejercicio se comienzan a aplicar los conocimientos adquiridos a lo largo del curso de la página FreeCodeCamp para la certificación en Diseño Web Responsivo ()
 date: '2021-07-29'
 thumb_img_path: images/CodepenP1.png
 thumb_img_alt: Tribute Page
