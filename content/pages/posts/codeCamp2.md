@@ -1,5 +1,5 @@
 ---
-title: Página Formulario
+title: Página Encuesta
 excerpt: >-
   En este segundo ejercicio se comienzan a aplicar los conocimientos adquiridos como son las etiquetas Input, CheckBox, formgroups, etc.
 date: '2021-07-30'
