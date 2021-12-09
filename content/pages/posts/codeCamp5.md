@@ -3,9 +3,9 @@ title: Página Documentación Técnica
 excerpt: >-
   En este cuarto ejercicio, se realizo una página en la que podemos navegar entre diferentes articulos, mostrando de lado izquierdo el menu para que nos dirijamos a la sección que queremos leer, se optimizó para que se ajuste a resoluciones bajas, haciendo que el menú se mueva hacía la parte de arriba.
 date: '2021-08-04'
-thumb_img_path: images/CodepenP2.png
+thumb_img_path: images/CodepenP5.png
 thumb_img_alt: Technical Documentation Page
-content_img_path: images/CodepenP2.png
+content_img_path: images/CodepenP5.png
 seo:
   title: Product Landing Page
   description: >-
