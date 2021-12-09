@@ -1,7 +1,7 @@
 ---
 title: Página Portafolio Personal
 excerpt: >-
-  En este quinto ejercicio, se realizo una página que pudiera mostrar un poco de la información referente a mi experiencia en el curso, así como ocupar la mayoria de las etiquetas aprendidas en la certificación
+  En este quinto ejercicio, se realizo una página que pudiera mostrar un poco de la información referente a mi experiencia en el curso, así como ocupar la mayoria de las etiquetas aprendidas en la certificación, se realizaron algunas interfaces como es la de Inicio, la de 
 date: '2021-08-06'
 thumb_img_path: images/CodepenP5.png
 thumb_img_alt: Personal Portfolio Page
