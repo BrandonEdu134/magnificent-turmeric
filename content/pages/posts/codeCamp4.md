@@ -5,7 +5,7 @@ excerpt: >-
 date: '2021-08-02'
 thumb_img_path: images/CodepenP2.png
 thumb_img_alt: Technical Documentation Page
-content_img_path: images/CodepenP3.png
+content_img_path: images/CodepenP2.png
 seo:
   title: Product Landing Page
   description: >-
