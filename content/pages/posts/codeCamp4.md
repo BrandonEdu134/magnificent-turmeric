@@ -1,5 +1,5 @@
 ---
-title: Página de Aterrizaje de un Producto
+title: Página Documentación Técnica
 excerpt: >-
   En este tercer ejercicio, utilizando los conocimientos adquiridos se desarrollo una página para el aterrizaje de un producto, al cual se le agregaron diversos componentes, como es una navbar, etiquetas de entrada, listas, multimedia, etc.
 date: '2021-08-02'
