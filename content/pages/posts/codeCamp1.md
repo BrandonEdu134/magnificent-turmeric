@@ -7,7 +7,7 @@ thumb_img_path: images/CodepenP1.png
 thumb_img_alt: Tribute Page
 content_img_path: images/CodepenP1.png
 seo:
-  title: Primer Ejercicio - Página Tributo
+  title: Tribute Page
   description: >-
    En este primer ejercicio se comienzan a aplicar los conocimientos adquiridos a lo largo del curso de la página FreeCodeCamp para la certificación en Diseño Web Adaptable (Responsive Web Design)
   extra:
