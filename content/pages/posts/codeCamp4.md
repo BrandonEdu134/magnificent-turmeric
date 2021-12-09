@@ -1,7 +1,7 @@
 ---
 title: Página Documentación Técnica
 excerpt: >-
-  En este cuarto ejercicio, se realizo una página en la que podemos navegar 
+  En este cuarto ejercicio, se realizo una página en la que podemos navegar entre diferentes articulos, mostrando de lado izquierdo el menu para que al ser presionado 
 date: '2021-08-02'
 thumb_img_path: images/CodepenP3.png
 thumb_img_alt: Landing page
