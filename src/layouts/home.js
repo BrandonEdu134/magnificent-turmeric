@@ -30,7 +30,7 @@ export default class Home extends React.Component {
                 </header>
                 {thumbImage && (
                     <Link className="post-thumbnail" href={postUrl}>
-                        <img className="thumbnail" src={withPrefix(thumbImage)} alt={thumbImageAlt} width="200px" />
+                        <img className="thumbnail" src={withPrefix(thumbImage)} alt={thumbImageAlt} width="100px" />
                     </Link>
                 )}
                 {excerpt && (
