@@ -1,7 +1,7 @@
 ---
 title: Página Documentación Técnica
 excerpt: >-
-  En este cuarto ejercicio, se realizo una página en la que nos puestra diferentes 
+  En este cuarto ejercicio, se realizo una página en la que podemos navegar diferentes
 date: '2021-08-02'
 thumb_img_path: images/CodepenP3.png
 thumb_img_alt: Landing page
