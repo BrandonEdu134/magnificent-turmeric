@@ -1,7 +1,7 @@
 ---
 title: Página de Aterrizaje de un Producto
 excerpt: >-
-  En este tercer ejercicio, utilizando los conocimientos adquiridos se desarrollo una página para el aterrizaje de un producto, al cual se le agregaron diversos componentes, como es una navbar, etiquetas de entrada, listas, etc. conocimientos adquiridos como son las etiquetas Input, CheckBox, formgroups, etc.
+  En este tercer ejercicio, utilizando los conocimientos adquiridos se desarrollo una página para el aterrizaje de un producto, al cual se le agregaron diversos componentes, como es una navbar, etiquetas de entrada, listas, etc.
 date: '2021-07-30'
 thumb_img_path: images/CodepenP3.png
 thumb_img_alt: Tribute Page
