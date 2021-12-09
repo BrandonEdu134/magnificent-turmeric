@@ -40,4 +40,4 @@ seo:
 layout: post
 ---
 
-En este tercer ejercicio, utilizando los conocimientos adquiridos se desarrollo una página para el aterrizaje de un producto, al cual se le agregaron diversos componentes, como es una navbar, etiquetas de entrada, listas, multimedia, etc.
+En este cuarto ejercicio, se realizo una página en la que podemos navegar entre diferentes articulos, mostrando de lado izquierdo el menu para que nos dirijamos a la sección que queremos leer, se optimizó para que se ajuste a resoluciones bajas, haciendo que el menú se mueva hacía la parte de arriba.
