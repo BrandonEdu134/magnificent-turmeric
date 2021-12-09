@@ -7,7 +7,7 @@ thumb_img_path: images/CodepenP4.png
 thumb_img_alt: Tribute Page
 content_img_path: images/CodepenP4.png
 seo:
-  title: Form Page
+  title: Survey Page
   description: >-
    En este segundo ejercicio se comienzan a aplicar los conocimientos adquiridos como son las etiquetas Input, CheckBox, formgroups, etc.
   extra:
