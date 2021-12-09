@@ -1,5 +1,5 @@
 ---
-title: Página Documentación Técnica
+title: Página Portafolio Personal
 excerpt: >-
   En este quinto ejercicio, se realizo una página
 date: '2021-08-06'
