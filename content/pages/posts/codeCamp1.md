@@ -1,5 +1,5 @@
 ---
-title: Ejercicio Página Tributo
+title: Página Tributo
 excerpt: >-
   En este primer ejercicio se comienzan a aplicar los conocimientos adquiridos a lo largo del curso de la página FreeCodeCamp para la certificación en Diseño Web Adaptable (Responsive Web Design)
 date: '2021-07-29'
