@@ -40,4 +40,4 @@ seo:
 layout: post
 ---
 
-En este cuarto ejercicio, se realizo una página en la que podemos navegar entre diferentes articulos, mostrando de lado izquierdo el menu para que nos dirijamos a la sección que queremos leer, se optimizó para que se ajuste a resoluciones bajas, haciendo que el menú se mueva hacía la parte de arriba.
+En este quinto ejercicio, se realizo una página que pudiera mostrar un poco de la información referente a mi experiencia en el curso, así como ocupar la mayoria de las etiquetas aprendidas en la certificación, se realizaron algunas interfaces como es la de Inicio, la de Proyectos y la de Contacto.
