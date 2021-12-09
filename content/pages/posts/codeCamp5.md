@@ -1,7 +1,7 @@
 ---
 title: Página Portafolio Personal
 excerpt: >-
-  En este quinto ejercicio, se realizo una página que pudiera mostrar un poco de la información 
+  En este quinto ejercicio, se realizo una página que pudiera mostrar un poco de la información referente a 
 date: '2021-08-06'
 thumb_img_path: images/CodepenP5.png
 thumb_img_alt: Personal Portfolio Page
