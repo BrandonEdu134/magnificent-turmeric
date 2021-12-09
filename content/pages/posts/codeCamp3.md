@@ -9,7 +9,7 @@ content_img_path: images/CodepenP3.png
 seo:
   title: Primer Ejercicio - Página Tributo
   description: >-
-   En este segundo ejercicio se comienzan a aplicar los conocimientos adquiridos como son las etiquetas Input, CheckBox, formgroups, etc.
+   En este tercer ejercicio, utilizando los conocimientos adquiridos se desarrollo una página para el aterrizaje de un producto, al cual se le agregaron diversos componentes, como es una navbar, etiquetas de entrada, listas, multimedia, etc.
   extra:
     - name: 'og:type'
       value: article
