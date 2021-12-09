@@ -1,7 +1,7 @@
 ---
 title: Página Documentación Técnica
 excerpt: >-
-  En este tercer ejercicio, utilizando los conocimientos adquiridos se desarrollo una página para el aterrizaje de un producto, al cual se le agregaron diversos componentes, como es una navbar, etiquetas de entrada, listas, multimedia, etc.
+  En este cuarto ejercicio, se realizo una página en la que nos puestra diferentes 
 date: '2021-08-02'
 thumb_img_path: images/CodepenP3.png
 thumb_img_alt: Landing page
