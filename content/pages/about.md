@@ -30,6 +30,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Hola, mi nombre es Brandon Eduardo, soy estudiante de la Licenciatura en Ciencias Computacionales
+Hola, mi nombre es Brandon Eduardo, soy estudiante de la Licenciatura en Ciencias Computacionales, a lo largo de mi 
 
 En mis tiempos libres me gusta jugar videojuegos como League of Legends, Age of Empires, y juegos del celular.
