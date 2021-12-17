@@ -88,7 +88,7 @@ export default class Header extends React.Component {
             <header className="site-header">
                 {image && (
                     <div className="site-header-bg">
-                        <img src={withPrefix(image)} className="site-header-bg-img" alt="" />
+                        <img src={withPrefix(image)} className="site-header-bg-img" alt="" style={{filter: "grayscale(90%)"}} />
                         <div className="site-header-bg-gradient" />
                     </div>
                 )}
@@ -96,7 +96,7 @@ export default class Header extends React.Component {
                     <div className="site-header-inside">
                         <div className="site-header-vertical">
                             <div className="site-branding">
-                                {logo && <p className="site-logo"><Link href={withPrefix('/')}><img src={withPrefix(logo)} alt={logoAlt} /></Link></p>}
+                                {logo && <p className="site-logo"><Link href={withPrefix('/')}><img src={withPrefix(logo)} alt={logoAlt} style={{filter: "invert(99%)"}} /></Link></p>}
                                 {pageLayout === 'home' ? <h1 className="site-title"><Link href={withPrefix('/')}>{title}</Link></h1>
                                     : <p className="site-title"><Link href={withPrefix('/')}>{title}</Link></p>}
                                 {tagline && <p className="site-description">{tagline}</p>}
